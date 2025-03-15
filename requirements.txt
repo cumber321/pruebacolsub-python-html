@@ -1,0 +1,22 @@
+
+Ejercicio Python:
+1.	Realizar la lectura de las bases de datos. (La información está en la carpeta de Data)
+2.	Realizar los Join necesarios para relacionar las 3 bases de datos.
+3.	Crear las consultas necesarias para dar respuesta a las preguntas que se plantean en esta prueba.
+4.	Entregar notebook de Python con los códigos, gráficos y respuestas a las preguntas planteadas. 
+
+Ejercicio HTML
+1. Construir la una pequeña pagina web donde se pueda  visualizar los  resultados de esta prueba. 
+ Preguntas al final del archivo
+
+
+
+Entrega de códigos Notebook de Python y html
+¿Existen temporadas de mayor venta de productos?
+¿Cuál es la participación de consumo de personas afiliadas y no afiliadas?
+¿Cuál es el consumo total por unidad de negocio?
+¿Cuáles son las unidades y productos de mayor uso en cada categoría?
+Identifique los clientes (afiliados y no afiliados) con mayor frecuencia de uso y mayor valor neto de venta.
+¿Cómo ha sido el porcentaje histórico de penetración en la población afiliada de los servicios Colsubsidio?
+¿Cuáles son los productos más consumidos en el cada segmento poblacional?
+¿Cuáles son las mejores empresas en cuanto a consumo individual de sus empleados?
